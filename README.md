@@ -11,4 +11,4 @@ mex -g -R2018a -I.\ TORCSClient_S.cpp CarControl.cpp CarState.cpp SimpleDriver.c
 
 The file TestModel.slx contains a simple demo for cruise control and lane keeping system. The controllers are just for testing basic functionalities of the S-function.
 
-[1] 
+[1] Loiacono, Daniele, Luigi Cardamone, and Pier Luca Lanzi. "Simulated car racing championship: Competition software manual." arXiv preprint arXiv:1304.1672 (2013).
