@@ -1,5 +1,7 @@
 # TORCS_Simulink_Client
 
+[![View TORCS Simulink Client on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/73744-torcs-simulink-client)
+
 This repository contains an S-Function for Simulink featuring the client-server championship code for TORCS [1]. This is implemented to faciliate the developement of SIL control algorithms for drivers in TORCS.
 
 This code is implemented on MATLAB R2018a for Windows and compiled via Microsoft Visual Studio 2017 Community Edition.
