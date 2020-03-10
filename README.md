@@ -16,4 +16,5 @@ The file TestModel.slx contains a simple demo for cruise control and lane keepin
 [1] Loiacono, Daniele, Luigi Cardamone, and Pier Luca Lanzi. "Simulated car racing championship: Competition software manual." arXiv preprint arXiv:1304.1672 (2013).
 
 Please, cite this work as:
+
 Sherif, M. M., Ahmed, A. M., Moustafa, A. M., & Moness, M. (2019). Optimal Control of Lane Keeping System Using Simulated Annealing and Linear Quadratic Regulator. In 2019 15th International Computer Engineering Conference (ICENCO). IEEE. Retrieved from https://doi.org/10.1109%2Ficenco48310.2019.9027294
